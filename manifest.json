@@ -1,0 +1,21 @@
+{
+  "name": "EVA Pharma · Respiratory Advisors Lab",
+  "short_name": "EVA Respiratory",
+  "description": "Your personal Barcelona arrival guide",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FAC611",
+  "background_color": "#0D0D0D",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
